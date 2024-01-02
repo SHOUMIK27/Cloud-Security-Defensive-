@@ -1,2 +1,2 @@
-# SIEM
-A walkthrough of setting up siem tool in cloud environment 
+#Cloud-Security [Defensive]
+This repository contains walkthrough/writeups showcasing my knowledge on cloud security.
